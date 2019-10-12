@@ -85,6 +85,11 @@
           "timeToLiveSecs": 7200
         }
       }
+    },
+    "PythonModule": {
+      "properties.desired":{
+          "TemperatureThreshold":25
+      }
     }
   }
 }
